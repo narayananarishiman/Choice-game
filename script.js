@@ -15,7 +15,7 @@ while (roadChoice > 3 || roadChoice < 0) {
             document.getElementById("demo").innerHTML = "Po drodze tracisz połowę swoich skarbów";
             break;
         case "3":
-            document.getElementById("demo").innerHTML = "Po drodze tracisz połowę swoich skarbów";
+            document.getElementById("demo").innerHTML = "Wieśniak twierdzi, że nic nie chce więc zostawia Ci wszystkie skarby";
             break;
         default:
             document.getElementById("demo").innerHTML = "Wpisz prawidłową wartość";
